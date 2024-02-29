@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@layer base {
+  @font-face {
+    font-family: "Bree Serif";
+    src: url("https://fonts.gstatic.com/s/breeserif/v17/4UaHrEJCrhhnVA3DgluA96rp5w.woff2");
+  }
+  @font-face {
+    font-family: "Marko One";
+    src: url("https://fonts.gstatic.com/s/markoone/v22/9Btq3DFG0cnVM5lw1haqLZ8e.woff2");
+  }
+}
