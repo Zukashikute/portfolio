@@ -1,4 +1,23 @@
 const projects = [
+    {
+    id: "mixxi-we",
+    name: "Mixxi",
+    type: "Work Experience",
+    description: `A creator tool and a platform where creation becomes commerce, and every remix builds value — for creators, brands, and audiences alike.`,
+    image:
+      "https://cdn.prod.website-files.com/67f50f9718e38984fa5df108/698d92c61cdc3306fa59f366_image%20(2).png",
+    url: "https://www.mixxi.ai/",
+    techStack: [
+      "Webflow",
+      "CMS",
+      "Make",
+      "Airtable",
+      "Supabase",
+      "Memberstack",
+      "Google Analytics",
+      "Custom Code",
+    ],
+  },
   {
     id: "celeritystudio-we",
     name: "Celerity Studio",
