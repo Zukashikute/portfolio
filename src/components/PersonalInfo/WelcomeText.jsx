@@ -9,8 +9,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 1,
+          duration: 0.5,
+          delay: 0.75,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"
@@ -23,8 +23,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 1.75,
+          duration: 0.5,
+          delay: 1.5,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"
@@ -37,8 +37,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 3.5,
+          duration: 0.5,
+          delay: 3.25,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"
@@ -51,8 +51,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 4.25,
+          duration: 0.5,
+          delay: 4,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"
@@ -65,8 +65,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 5,
+          duration: 0.5,
+          delay: 4.75,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"
@@ -79,8 +79,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 5.75,
+          duration: 0.5,
+          delay: 5.5,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"
@@ -93,8 +93,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 6.5,
+          duration: 0.5,
+          delay: 6.25,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"
@@ -107,8 +107,8 @@ const WelcomeText = () => {
         transition={{
           repeat: Infinity,
           repeatType: "reverse",
-          duration: 0.75,
-          delay: 7.25,
+          duration: 0.5,
+          delay: 7,
           repeatDelay: 7.5,
         }}
         className="font-serif text-4xl sm:text-5xl lg:text-6xl text-white"

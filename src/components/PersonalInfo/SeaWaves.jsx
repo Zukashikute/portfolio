@@ -27,7 +27,7 @@ const WaveOne = styled.div`
   animation: ${seaWave} 10s -3s linear infinite;
   transform: translate3d(0, 0, 0);
   opacity: 0.8;
-  top: 440px;
+  top: 600px;
   left: 0;
   z-index: 1;
 `;
@@ -41,7 +41,7 @@ const WaveTwo = styled.div`
   animation: ${seaWave} 18s linear reverse infinite;
   transform: translate3d(0, 0, 0);
   opacity: 0.8;
-  top: 455px;
+  top: 610px;
   left: 0;
   z-index: 1;
 `;
@@ -55,7 +55,7 @@ const WaveThree = styled.div`
   animation: ${seaWave} 20s -1s reverse infinite;
   transform: translate3d(0, 0, 0);
   opacity: 0.9;
-  top: 470px;
+  top: 620px;
   left: 0;
   z-index: 1;
 `;

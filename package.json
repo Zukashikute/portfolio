@@ -16,7 +16,9 @@
     "framer-motion": "^11.0.6",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "styled-components": "^6.1.8"
+    "react-router-dom": "^7.13.0",
+    "styled-components": "^6.1.8",
+    "uninstall": "^0.0.0"
   },
   "devDependencies": {
     "@types/react": "^18.2.56",
