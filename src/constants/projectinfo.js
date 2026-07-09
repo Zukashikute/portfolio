@@ -43,7 +43,7 @@ const projects = [
     type: "School Experience",
     description: `A full-stack task management app with Angular/Node setup.`,
     image:
-      "http://localhost:5173/src/assets/img/JradTransparent.png",
+      "https://zukashikute.github.io/portfolio/assets/JradTransparent-dS4Ecsr7.png",
     url: "https://github.com/Zukashikute/taskify-frontend",
     techStack: [
       "Angular",
@@ -83,7 +83,7 @@ const projects = [
     description: `A project where we applied the skills learned from our Web Services class. This project is an API system that provides a way for users and employees to ask for support from the IT team and access the functionalities of the ticketing system.
       The user will be able to create, open, and close tickets. It acts as a bridge that allows different systems to communicate and share data seamlessly.`,
     image:
-      "http://localhost:5173/src/assets/img/JradTransparent.png",
+      "https://zukashikute.github.io/portfolio/assets/JradTransparent-dS4Ecsr7.png",
     url: "https://maneja-tickets.onrender.com/",
     techStack: [
       "REST APIs",
@@ -103,7 +103,7 @@ const projects = [
     description: `A project where we applied the skills learned from our Web Backend Development class. This project is an API system with templating using embedded javascript (ejs).
       Account created can exchange messages, employee account can add, delete, and update vehicle information.`,
     image:
-      "http://localhost:5173/src/assets/img/JradTransparent.png",
+      "https://zukashikute.github.io/portfolio/assets/JradTransparent-dS4Ecsr7.png",
     url: "https://github.com/Zukashikute/cse340",
     techStack: [
       "EJS",
@@ -121,7 +121,7 @@ const projects = [
     type: "School Project",
     description: `A project where we applied the skills learned from our Web Frontend Development II class. This project uses external APIs to get a location's specific weather information (place, temperature, windspeed, humidity, date and etc).`,
     image:
-      "http://localhost:5173/src/assets/img/JradTransparent.png",
+      "https://zukashikute.github.io/portfolio/assets/JradTransparent-dS4Ecsr7.png",
     url: "https://zukashikute.github.io/wdd330/finalproject/index.html",
     techStack: [
       "Javascript",
